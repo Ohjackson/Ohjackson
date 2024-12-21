@@ -1,6 +1,10 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=180&text=its%20good%20day&animation=&fontColor=000000&fontSize=60" />
-    </div>
+<div align="center">
+    <img src="./images/ㅁㅁㅁ.png" alt="My Photo" width="300">
+    <img src="./images/ss.svg" alt="화성갈끄니까~~">
+
+</div>
+
+</div>    </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
