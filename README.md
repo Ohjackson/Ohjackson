@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
     <img src="./images/ㅁㅁㅁ.png" alt="My Photo" width="300">
     <img src="./images/ss.svg" alt="화성갈끄니까~~">
 
