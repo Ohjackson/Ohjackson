@@ -17,7 +17,7 @@
 
 ## 📱 My Apps
 
-### 🟩 Dangocho – Handwritten Vocabulary App  
+### Dangocho – Handwritten Vocabulary App  
 <img width="100" height="100" alt="Dangocho Icon" src="https://github.com/user-attachments/assets/76786f75-dbfb-42a2-908a-b23adae9ee2f" />
 
 > A must-have app for Japanese learners.  
@@ -30,7 +30,7 @@
 
 ---
 
-### 🟦 Routiq – Automated Workout Tracker for Apple Watch  
+### Routiq – Automated Workout Tracker for Apple Watch  
 <img width="100" height="100" alt="Routiq Icon" src="https://github.com/user-attachments/assets/51259df6-06f7-4cf1-9f8d-e35dc99ae177" />
 
 > Automatically logs and visualizes your workouts.  
@@ -43,7 +43,7 @@
 
 ---
 
-### 🐾 POPCO – Mini Cat Game for Apple Watch  
+### POPCO – Mini Cat Game for Apple Watch  
 <img width="100" height="100" alt="Popco Icon" src="https://github.com/user-attachments/assets/71710dfc-24a8-48a5-bd84-02574e01ce72" />
 
 > A tiny cat game right on your wrist.  
