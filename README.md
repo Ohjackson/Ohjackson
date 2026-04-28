@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi There!, I'm Ahn Jaehyun</h1>
+<h1>👋 Hi There! I'm Jaehyun Ahn</h1>
 
 <br>
 
