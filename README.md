@@ -41,6 +41,32 @@
 </a>
 
 ---
+### Perari – Personal Productivity App for iPhone & Mac  
+<img
+  width="100"
+  height="100"
+  alt="Perari Icon"
+  src="https://github.com/user-attachments/assets/b65b7919-3dc9-4817-8199-4cbd34ca9ab4"
+  style="border-radius: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
+/>
+
+> A personal productivity app I designed, built, and operate end to end.  
+> Local-first planning with iPhone–Mac sync through a self-hosted backend.
+
+- **Period:** Aug 2026 – Present  
+- **Tech:** SwiftUI · SwiftData · Fastify · PostgreSQL · Raspberry Pi  
+- **Available Regions:** 🌍 Worldwide  
+
+<!-- TODO: Replace PERARI_APP_STORE_URL with the App Store link -->
+<a href="https://apps.apple.com/kr/app/perari/id6775358118?l=en-GB" target="_blank">
+  <img
+    src="https://img.shields.io/badge/%20App%20Store-View%20on%20App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white"
+    style="border-radius: 12px; margin-top: 8px;"
+  />
+</a>
+
+---
+
 
 ### Routiq – Automated Workout Tracker for Apple Watch  
 <img 
