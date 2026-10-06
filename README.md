@@ -41,11 +41,11 @@
 </a>
 
 ---
-### Perari – Personal Productivity App for iPhone & Mac  
+### Sururi – Personal Productivity App for iPhone & Mac  
 <img
   width="100"
   height="100"
-  alt="Perari Icon"
+  alt="Sururi Icon"
   src="https://github.com/user-attachments/assets/b65b7919-3dc9-4817-8199-4cbd34ca9ab4"
   style="border-radius: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);"
 />
