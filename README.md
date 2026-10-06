@@ -4,12 +4,17 @@
 
 <br>
 
+<p><b>↓ Check out what I've built ↓</b></p>
+
 <a href="https://cantoo.me">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Now-2f6d57?style=for-the-badge&logo=safari&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/View_Developer_Site!_→-2f6d57?style=for-the-badge"
+    height="48"
+    alt="View Developer Site"
+  />
 </a>
-<a href="mailto:ajhyun3673@gmail.com">
-  <img src="https://img.shields.io/badge/📩_Contact-Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+
+<p><b>↑ 감사합니다! 覗いてくれてありがとう！ ↑</b></p>
 
 </div>
 
